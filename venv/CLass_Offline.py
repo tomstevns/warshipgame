@@ -3,10 +3,8 @@ class Offline:
     
     from Class_Start import Start
     startSpil = Start()
-    print("offlineStart er inititialiser")
+    print("offlineStart er inititialiseret")
 
-
-    
 
     
     def spilModComputer(self):

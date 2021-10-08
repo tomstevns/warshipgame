@@ -3,10 +3,7 @@ class Online:
     
     from Class_Start import Start
     startSpil = Start()
-    print("offlineStart er inititialiser")
-
-
-
+    print("onlineStart er inititialiseret")
 
 
     def spilModSpiller(self):
@@ -15,6 +12,7 @@ class Online:
 # Vigtig kalder mod Start klassen
         startBool =self.startSpil.startServer()
         return True
+
 
     def findSpillerPåSammeLevel(self):
         print("findSpillerPåSammeLevel")
