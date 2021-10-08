@@ -36,6 +36,20 @@ class TestStringMethods(unittest.TestCase):
         onLineSpiller = Online()
         self.assertTrue(onLineSpiller.spilModSpiller())
 
+    def test_integrationsTest_af_Class_Client_Server_Login(self):
+        client = Client_Server_Login()
+        #To be implemented
+        self.assertTrue(False)
+
+    def test_integrationsTest_af_Class_Skibe(self):
+        skibe = Skibe()
+        #To be implemented
+        self.assertTrue(False)
+    
+    def test_integrationsTest_af_Class_Spil(self):
+        spil = Spil()
+        #To be implemented
+        self.assertTrue(False)
 
 
 
