@@ -1,0 +1,51 @@
+DDU-afleveringsopgave1-Slagsskibs projekt - Funktionalitet-og-Unit-tests
+
+I skal beskrive hvorledes funktionailteten i jeres Use Case skal implementeres
+
+Derfor skal denne opgave konkretiseres af jer gruppevis(grupper vist nedenfor) i det vedlagte dokument
+
+
+I skal gruppevis beskrive følgende, 
+1) Hvilke Python funktioner som skal implementeres for at løse jeres del af opgaven - 
+   Disse funktioner skal anføres i en pythonfil, som på nuværende tidspunkt er uden indhold
+2) Programmere unit-tests som skal kunne teste alle de funktioner som I gruppevis allerede har beskrevet.
+   Opgaven går således ikke ud på at I programmerer funktionerne endnu, de skal bare være blot defineres uden indhold
+   eksempelvis
+     def  dummy-false-funktion():
+          #Her implementeres kode
+          return False 
+
+I kan få lidt inspiration til at lave unit-testene her:
+https://github.com/tomstevns/warshipgame/tree/master/venv
+
+
+3) Vi fortsætter og afslutter i sidste DDU time på torsdag den 14.Oktober. 
+
+
+Frist for aflevering 14 oktober kl 18:00
+
+Opgaverne bedømmes gruppevis efter 7 trins-skalaen med mine kommentarer
+
+Et udestående er de elever af jer som ikke er mødt op til undervisningen 
+
+
+Held og lykke Tom
+
+
+Grupper 
+
+Use Case navn				Nummer	Gruppedeltagere	
+===============================================================================================================================			
+Login					UC1	Torbjørn	Thomas		Niclas		Nicolai
+Online spiller				UC2	Nicoline	Sandra		Oliver		Johsua 	 Nicolai Samir Rosenbæk
+Offline spiller				UC3	Sebastian	Jonas		
+Start og forbered spil på at køre	UC4	Mads		Mikkel		Marius		
+Sæt skibe i søen			UC5	Emil		Andreas E	Jacob	
+Spillet går i gang			UC6	Gustav		Rasmus		Andreas P	Noah
+Login					UC1	Michael Errebo
+	
+
+
+
+
+ 
