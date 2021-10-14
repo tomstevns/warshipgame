@@ -11,6 +11,12 @@ class TestOfflineMethods(unittest.TestCase):
         offlineObject = Offline()
         self.assertTrue(offlineObject.spilModComputer())
 
+    def test_pingServer(self):
+        "Pinger server"
+        self.assertTrue(False)
+
+
+
 #Main metode her starter programmet altid at køre
 if __name__ == '__main__':
     unittest.main()
